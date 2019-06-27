@@ -1,3 +1,5 @@
+## NB: IBM teams wishing to build with Gatsby Theme Carbon should reach out to the Carbon team for approval and assistance. ## 
+
 <h1 align="center">
   Gatsby Theme Carbon
 </h1>
